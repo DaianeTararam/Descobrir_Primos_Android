@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Descobrir Primos</string>
+    <string name="etNum1">Digite o menor número</string>
+    <string name="etNum2">Digite o maior número</string>
+    <string name="tvResposta">Os números primos entre os números digitados são:</string>
+    <string name="btnPrimos">Clique Aqui</string>
+</resources>
